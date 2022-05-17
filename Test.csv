@@ -1,0 +1,5 @@
+,Date & Time,User IP,Method,Url,Query String,Agent IP,Browser Type,OS,Url_Category,Agent_IP_Category,HTTP Status,Test1,Win 32 Status,Sub Status
+0,01-03-2015 0:01,118.244.228.205,GET,/wap/load.asp,comicId=12554&chapterId=138863&imageId=16&_=1425167770018,111.30.141.47,Mozilla,0,26,167,200,0,64,79
+1,01-03-2015 0:01,118.244.228.205,GET,/wap/load.asp,comicId=12441&chapterId=133729&imageId=2&_=1425167973399,14.114.242.208,Mozilla,1,26,604,200,0,0,118
+44,01-03-2015 0:01,118.244.228.205,GET,/wap/read.asp,chapterId=128015&comicId=12332,112.64.235.248,Mozilla,2,31,186,200,0,0,266
+44,01-03-2015 0:01,118.244.228.205,GET,/wap/read.asp,chapterId=128015&comicId=12332,112.64.235.248,Mozilla,2,37,1231,200,0,0,266
